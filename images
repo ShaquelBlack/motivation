@@ -1,1 +1,2 @@
 git remote add origin [https://github.com/labnol/files.git]
+git pull origin master
